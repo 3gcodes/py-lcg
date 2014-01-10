@@ -13,10 +13,10 @@ Use the following for getting Python3, pip, and Tornado running on OSX: http://i
 
 ### Linux ###
 Ubuntu: 
-'''
+```
 sudo apt-get install python3.3 python3-pip
 sudo pip install tornado
-'''
+```
 
 ###Windows###
 How dare you!
